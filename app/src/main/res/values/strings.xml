@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExtendedEditTextDemo</string>
+    <string name="search">搜索</string>
+    <string name="custom_marker_always_show">自定义Marker一直显示</string>
+    <string name="custom_marker_show_before_input">自定义Marker输入前显示</string>
+    <string name="custom_marker_show_after_input">自定义Marker输入后显示（默认）</string>
+    <string name="auto_split_mode">自动显示为分割格式</string>
+    <string name="custom_split_mode">自定义分割格式</string>
+    <string name="default_split_mode">默认分割格式</string>
+</resources>

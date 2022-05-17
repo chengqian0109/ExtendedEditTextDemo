@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExtendedEditText">
+        <attr name="separator" format="string"/>
+        <attr name="customizeMarkerEnable" format="boolean"/>
+        <attr name="showMarkerTime">
+            <enum name="after_input" value="0"/>
+            <enum name="before_input" value="1"/>
+            <enum name="always" value="2"/>
+        </attr>
+        <attr name="iOSStyleEnable" format="boolean"/>
+    </declare-styleable>
+</resources>
